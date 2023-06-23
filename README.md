@@ -16,6 +16,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5565093/
 
 The python file can be found here: https://github.com/kjaitken/Micturition_readings/blob/main/rat_voiding9.ipynb
 
+Input data should be in csv format with time in minutes in column 1, then further columns as many as needed, for your data. For our experimental use, standard numbers of columns covered 11 hours, with the first 30-60 minutes removed as the system settled. If measurements are more than once per minute, a conversion factor will be needed to convert to 1 minute. This is included in a commented out section as it is not always needed.  
+
 Please reference this repository and me and Martin in your methods!
 Any questions or queries: you can find me at the DIYBio/ HackLab Toronto and karen.aitken@alumni.utoronto.ca. 
-Previous work was performed at the hospital for sick children under Dr. DJ Bagli. 
+Previous work was performed at the Hospital for Sick Children under Dr. DJ Bagli. 
