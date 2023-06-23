@@ -3,11 +3,10 @@
 
 This method will allow you to take something like this: 
 
-![image](https://github.com/kjaitken/Micturition_readings/assets/13381429/cb215c97-66a1-4a96-b405-4c3783d33fea)
+![image](https://github.com/kjaitken/Micturition_readings/assets/13381429/a8ee7988-f660-4593-be24-b2e530d64acc)
 
 and turn it into useable data like this: 
-
-![image](https://github.com/kjaitken/Micturition_readings/assets/13381429/94d96676-99c3-46ac-9435-f3551d649a36)
+![image](https://github.com/kjaitken/Micturition_readings/assets/13381429/d56ab880-5d7f-40b6-adbe-47e0bd265f55)
 
 The data for use as a trial is 'dummy' data which can be replaced with your own. 
 Adjust the threshold of detection and the small voids threshold according to the distribution in your species, strain and age. 
