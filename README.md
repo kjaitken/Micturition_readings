@@ -9,3 +9,5 @@ and turn it into useable data like this:
 
 ![image](https://github.com/kjaitken/Micturition_readings/assets/13381429/94d96676-99c3-46ac-9435-f3551d649a36)
 
+The data for use as a trial is 'dummy' data which can be replaced with your own. 
+The main voiding data can be found here: 
