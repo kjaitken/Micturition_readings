@@ -17,5 +17,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5565093/
 The python file can be found here: https://github.com/kjaitken/Micturition_readings/blob/main/rat_voiding9.ipynb
 
 Please reference this repository and me and Martin in your methods!
-Any questions or queries: you can find me at the DIYBio/ HackLab Toronto and karen.aitken@alumni.utoronto.ca
+Any questions or queries: you can find me at the DIYBio/ HackLab Toronto and karen.aitken@alumni.utoronto.ca. 
 Previous work was performed at the hospital for sick children under Dr. DJ Bagli. 
