@@ -1,5 +1,5 @@
 ### Analysis of Micturition readings
-Provided here is a method to analyse micturition readings obtained from a LoggerPro connected to weigh scales or other measurement device. 
+Provided here is a method to analyse micturition readings obtained from a LoggerPro connected to weigh scales or other similar measurement device. 
 
 This method will allow you to take something like this: 
 
