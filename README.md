@@ -11,6 +11,6 @@ and turn it into useable data like this:
 The data for use as a trial is 'dummy' data which can be replaced with your own. 
 Adjust the threshold of detection and the small voids threshold according to the distribution in your species, strain and age. 
 The python code can be found here: https://github.com/kjaitken/Micturition_readings/blob/main/rat_voiding9.ipynb
-
+Please reference me in your methods!
 Any questions or queries: you can find me at the DIYBio/ HackLab Toronto and karen.aitken@alumni.utoronto.ca
 Previous work was performed at the hospital for sick children under Dr. DJ Bagli. 
